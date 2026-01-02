@@ -1,10 +1,6 @@
 # Threat Detection with GuardDuty
 
----
-
 ![Image](http://learn.nextwork.org/calm_chartreuse_playful_saci_perere/uploads/aws-security-guardduty_v1w2x3y4)
-
----
 
 ### Tools and concepts
 
